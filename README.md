@@ -65,7 +65,7 @@ Install dependencies
 Start the server
 
 ```bash
-  python app.py
+  streamlit run src/Home.py
 ```
 # Steps to Deploy a Streamlit App
 
