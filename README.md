@@ -14,9 +14,6 @@
 <p>By contrast, the probability of dying from any one of the four main noncommunicable diseases (cardiovascular diseases, cancer, chronic respiratory diseases or diabetes) between the ages of 30 and 70 decreased by 22% globally between 2000 and 2019.</p>
 <p>Considering the severity of the disease, it will be quite useful to have a AI tool that will be able to predict the occurance of disease given some prior information about the patient. The project is aimed to do this exactly.</p>
 
-# Deployed Link
-Checkout the webapp at https://shivamshinde123-diabetes-prediction-app-with-mul-srchome-g751yp.streamlitapp.com/
-
 # Project Workflow
 ![image](https://user-images.githubusercontent.com/54674972/213411453-6f18951a-f7fb-467e-b163-0972a91e644a.png)
 
